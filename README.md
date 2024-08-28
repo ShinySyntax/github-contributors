@@ -1,3 +1,6 @@
+This is a python script that checks the number of contributors who have written code in the default branch of a given repository in the last 90 days.<br/>
+
+
 config.txt<br/>
 
 first line 
